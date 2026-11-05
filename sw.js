@@ -1,5 +1,5 @@
 // Keeps the app working offline. Change VERSION when you upload a new index.html.
-const VERSION = '2';
+const VERSION = '3';
 const CACHE = 'character-sheet-' + VERSION;
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-180.png'];
 
